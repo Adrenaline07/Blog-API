@@ -1,0 +1,30 @@
+Use consistent quote " or '
+collection-	list [], tuples() and set
+you can't edit a tuple
+collections are called data structure not data type
+every element in a collection is an index. and in prog, 
+count starts from ZERO
+Ctrl/ is multiple line comment
+
+
+LOOPS - FOR loop & WHILE loop
+Dictionary is a datastructure that represents the value of an object
+it has curly brackets and can hold a list
+mydict = {
+'name': 'Faith'
+name is the key and Faith is the term
+}
+Crud_options are the major operations performed by users.
+C-Create, R-read, U-update & D-delete
+'LEN' function allows to check the length of a list
+Dangling IF is without an else sttatement
+
+Math library - input & external
+Python comes with PIP-python installation package
+
+Assignment1: upgrade introdcing sin, cos ,tan, bbut ask your user 
+before hand if they want a one numbr operation or two no. opertion
+2: create two empty list, 5coordinates for x and y.
+tell your users to input the coordinates for x,y 5 times
+append those values to the list
+and plot a graph

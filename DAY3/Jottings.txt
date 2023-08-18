@@ -1,0 +1,56 @@
+Syntax is the rule of a particular language
+x.Insert takes the index and the content  /like x.pop
+
+Ass: create a list that contain nos
+create a for loop
+if num> 10
+print(no>10)
+else num < 10
+
+create another list to check even and odd num
+imports all maths libraries.: we can use FROM MATH IMPORT * 
+when importing specific thing e.g : from math import sqrt,cos,sin
+
+ethically, imports should be at the beginning of the code
+imports are called dependencies
+
+YOU CAN IMPORT A FILE TO ANOTHER FILE(MODULE/LIB)
+from FOLDER import NAME
+Ass: for every function
+create a new file that consist of all operations
+create a main.py where calc works
+create an if, if user select add
+
+RANGE: for i in range(10):
+print(i) brings out 1,2,3,4,5,6,7,8,9. 
+
+create function
+for loop to check if variable is present
+
+try and except error - to handle exceptions
+
+OOP-Object Oriented Programming
+Object is an instance of a class
+Class is a template
+
+Xtics of OOP
+Polymorphism, Inheritance, Encapsulation, Abstraction, Doctyping
+
+Static files are images, js file
+
+FRAMEWORK
+Meta
+ Framework and Normal framework
+
+Create a program that collects input for a 3*3 matrix in python
+(using the for loop)
+Create a blueprint that appends user info into a list
+username
+fullname
+location
+password
+state of origin
+location
+D.O.B
+create an instance of a class cos user is registering
+Read on GETTERS AND SETTERS, PRIVATE and PUBLIC ATTR

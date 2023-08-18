@@ -1,0 +1,23 @@
+ACA SUMMER CAMP 7/7/2023		BACKEND ENGINEERING
+PYTHON is easy to understand, for Maths, ML or AI, has 137,000 libraries
+Most popular txt editor - VS code
+
+Prog Lang: High level(python) and Low level lang(computer understands, c, c++)
+Magic Box Analogy
+Features are the characteristics of the system
+Reequirement are what you expect system to do after it's built
+Functional Requirement and Nonfunctional requirement
+"Add python to path" access your python from various blocks on your pc
+
+A variable is a container that stores 
+Data types	 *string-word
+		collection
+		Number 	*integer
+			*float- decimal numbers
+			collection
+snake case is seperation of file words with underscore WHILE 
+camelcase is seperation with capitalletter from the next word
+A comment is a piece of text for description - in python: it's #.
+If Statement
+
+**Calculator that will accept two values, asks the user if he wants to multiply, add, divide, or subtract. using Control flow, if and else statement

@@ -1,0 +1,10 @@
+ACA SUMMER CAMP 7/7/2023		BACKEND ENGINEERING
+PYTHON is easy to understand, for Maths, ML or AI, has 137,000 libraries
+Most popular txt editor - VS code
+
+Prog Lang: High level(python) and Low level lang(computer understands, c, c++)
+Magic Box Analogy
+Features are the characteristics of the system
+Reequirement are what you expect system to do after it's built
+Functional Requirement and Nonfunctional requirement
+"Add python to path" access your python from various blocks on your pc
